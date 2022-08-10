@@ -20,7 +20,7 @@ the abbreviations we get for the feature *TerritoryName* are `DK`, `SE` and `NO`
 this is the case, we see in the following image that Tableau doesn't recognize Sweden:
 
 <br>
-<p align="center"> <img src="./images/raw_country_name_problem.png" alt="Drawing"/> </p>
+<p align="center"> <img src="./git_image/raw_country_name_problem.png" alt="Drawing"/> </p>
 <br>
 
 This lead me to do some basic data wrangling with Python using the Pandas library:
@@ -44,7 +44,36 @@ df.to_excel("cleaned_data.xlsx")
 ```
 
 
-Updates will come soon... 
+## Steps against interactive dashboards
+
+
+
+
+
+
+## Dashboards for the Children World dataset
+
+### 1.) Geographical overview
+
+<br>
+<p align="center"> <img src="./git_image/geographical_overview.png" alt="Drawing"/> </p>
+<br>
+
+### 2.) An overview of salesmanagers and customers
+
+<br>
+<p align="center"> <img src="./git_image/manager_and_customer_overview.png" alt="Drawing"/> </p>
+<br>
+
+
+### 3.) Focus on the trades 
+
+<br>
+<p align="center"> <img src="./git_image/focus_on_trades.png" alt="Drawing"/> </p>
+<br>
+
+
+
 
 
 
