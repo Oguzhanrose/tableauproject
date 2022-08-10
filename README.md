@@ -2,7 +2,7 @@
 
 # About Children World - Dashboard
 The project is based on a dataset of an American company that specializes in production sale of children's products to businesses 
-provided by Technical University of Denmark. This is a knowledge based project to master a Business Intelligence tool as Tableau. 
+provided by Technical University of Denmark. This is a knowledge based project to learn a Business Intelligence (BI) tool as Tableau. 
 
 
 ## Problems with the geographical values
@@ -27,6 +27,11 @@ This lead me to do some basic data wrangling with Python using the Pandas librar
 
 ###  Correcting the abbreviations
 
+<br>
+
+<details>
+<summary>Click to see the libraries</summary>
+
 ```python
 # Import relevant library
 import pandas as pd
@@ -43,6 +48,9 @@ df.loc[df['TerritoryName'] == "NO", 'TerritoryName'] = "Norway"
 df.to_excel("cleaned_data.xlsx")  
 ```
 
+</details>
+
+<br>
 
 ## Steps against interactive dashboards
 
