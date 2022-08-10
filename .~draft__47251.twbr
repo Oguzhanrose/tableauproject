@@ -2500,7 +2500,7 @@
       <simple-id uuid='{21D28B54-3054-4766-A538-C39C61275A1B}' />
     </dashboard>
   </dashboards>
-  <windows source-height='30'>
+  <windows pres-mode='true' source-height='30'>
     <window class='worksheet' name='Geographical overview of the essential numbers'>
       <cards>
         <edge name='left'>
@@ -2858,7 +2858,7 @@
       </cards>
       <simple-id uuid='{D67B13BD-2321-4E65-B19E-CE5BB990C312}' />
     </window>
-    <window class='dashboard' name='Geographical overview'>
+    <window class='dashboard' maximized='true' name='Geographical overview'>
       <viewpoints>
         <viewpoint name='Budget deviation'>
           <zoom type='fit-width' />
@@ -2893,7 +2893,7 @@
       <active id='-1' />
       <simple-id uuid='{EB151545-9CE5-4D51-BC12-A9B7A50DA193}' />
     </window>
-    <window class='dashboard' maximized='true' name='Manager and customer overview'>
+    <window class='dashboard' name='Manager and customer overview'>
       <viewpoints>
         <viewpoint name='Budget deviation'>
           <zoom type='fit-width' />
@@ -2924,7 +2924,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='26' />
+      <active id='-1' />
       <simple-id uuid='{BE76D3EA-F623-4A94-BAD7-ADDAAFB3CA6E}' />
     </window>
     <window class='dashboard' name='Focus on Trades'>
