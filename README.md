@@ -81,7 +81,7 @@ By draging the `Territory Name` feature into color, which has the data type *Tex
 
 ## Dashboards for the Children World dataset
 
-The next three illustration shows the static form of our interactive dashboards. To see the intractive ones please scrool up at the very top.
+The next three illustration shows the static form of our interactive dashboards. To see the intractive ones please scrool up at the very top. And to see the dasboards yourself in action, please download `final_workbook.twbx`.
 
 
 ### 1.) Geographical overview
