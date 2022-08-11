@@ -5,7 +5,15 @@ The project is based on a dataset of an American company that specializes in pro
 provided by Technical University of Denmark. This is a knowledge based project to learn a Business Intelligence (BI) tool as Tableau. 
 
 <br>
-<p align="center"> <img src="./git_image/example.gif" alt="Drawing"/> </p>
+<p align="center"> <img src="./git_image/geographical_to_convert.gif" alt="Drawing"/> </p>
+<br>
+
+<br>
+<p align="center"> <img src="./git_image/manager_and_customer_overview.gif" alt="Drawing"/> </p>
+<br>
+
+<br>
+<p align="center"> <img src="./git_image/focus_on_trades.gif" alt="Drawing"/> </p>
 <br>
 
 
