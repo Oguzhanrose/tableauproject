@@ -75,13 +75,13 @@ To have many information in a single worksheet, it sometimes requires additional
 <p align="center"> <img src="./git_image/additional_drag_drop.png" alt="Drawing"/> </p>
 <br>
 
-By draging the `Territory Name` feature into color, which has the data type *Text(String)*, the circles turns into colorcode of their respective country. By this functionalty the colors (Red, Blue and Orange) remains the same throughout all the three dashboards, for respectively (Sweden, Denmark and Norway). Another feature which is dragged is SUM of the `Budget Amount` *Numerical values* into the size, which makes the sizes of the circles big with respect to the budget amount each sales manager has been allocated to.  
+By draging the `Territory Name` feature into color, which has the data type "*Text(String)*", the circles turns into colorcode of their respective country. By this functionalty the colors (Red, Blue and Orange) remains the same throughout all the three dashboards, for respectively (Sweden, Denmark and Norway). Another feature which is dragged is SUM of the `Budget Amount` "*Numerical values*" into the size, which makes the sizes of the circles big with respect to the budget amount each sales manager has been allocated to.  
 
 
 
 ## Dashboards for the Children World dataset
 
-The next three illustration shows the static form of our interactive dashboards. To see the intractive ones please scrool up at the very top. And to see the dasboards yourself in action, please download `final_workbook.twbx`.
+The next three illustration shows the static form of our interactive dashboards. To see the interactive ones please scrool up at the very top. And to see the dasboards yourself in action, please download `final_workbook.twbx`.
 
 
 ### 1.) Geographical overview
